@@ -1,0 +1,30 @@
+.year {
+  padding: 10px;	
+  background-color: blue;
+  border: 3px solid white;
+}
+.content {
+  background-color: #90EE90; /*green*/
+}
+body
+	{ 
+	background-color: rgba(201, 76, 76, 0.3);
+	color:#ff00ff;
+	text-align: center;
+	font-family: "Times New Roman", serif;
+
+	}
+p {
+	color:tomato;
+	font-family:Georgia, Helvetica, serif;
+	font-style: italic;
+	font-weight: 800
+	font-size 64px;
+	background-color: gray;
+}
+#bg {
+	position: center
+	width: 600px;
+	height: 600px;
+	background: url('DSCN0273.jpg') repeat-y center #aa00aa;
+}
